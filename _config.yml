@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: "Artist's Home"
+description: "Experience a house in Paris"
+show_downloads: false
+markdown: kramdown
+permalink: pretty
+github:
+  is_project_page: false
